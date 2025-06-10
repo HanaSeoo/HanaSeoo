@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌟 **H E L L O   W O R L D** 🌟
+# "git add hana && git commit -m 'Perfect match!' 🔥"
+<br>
 
 ```
 ██╗  ██╗ █████╗ ███╗   ██╗ █████╗     ███████╗███████╗ ██████╗ 
@@ -11,7 +12,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝ 
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&duration=3000&pause=1200&color=2F80ED&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=💫+CREATIVE+DEVELOPER+💫;⚡+REACT+%7C+SPRING+%7C+AI+⚡;🌟+MAKING+DREAMS+INTO+CODE+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&duration=3000&pause=1200&color=2F80ED&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=CREATIVE+DEVELOPER;⚡+REACT+%7C+SPRING+%7C+AI+⚡;MAKING+DREAMS+INTO+CODE)](https://git.io/typing-svg)
+
+
 [![Portfolio](https://img.shields.io/badge/🌐_MY_PORTFOLIO-VISIT_NOW-00D4FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://hana-dev-portfolio.netlify.app/)
 
 </div>
