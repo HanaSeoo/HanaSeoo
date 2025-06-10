@@ -11,8 +11,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝ 
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D4FF&size=28&center=true&vCenter=true&width=800&height=80&lines=👩‍🏫+교사에서+👩‍💻+개발자로+전향;사용자+중심+서비스+개발에+열정;🤝+4년+교육경험+기반+협업+능력)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&duration=3000&pause=1200&color=2F80ED&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=💫+CREATIVE+DEVELOPER+💫;⚡+REACT+%7C+SPRING+%7C+AI+⚡;🌟+MAKING+DREAMS+INTO+CODE+🌟)](https://git.io/typing-svg)
 [![Portfolio](https://img.shields.io/badge/🌐_MY_PORTFOLIO-VISIT_NOW-00D4FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://hana-dev-portfolio.netlify.app/)
 
 </div>
