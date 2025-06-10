@@ -169,7 +169,7 @@ const hanaDeveloper = {
 const myGoals = {
     now: "신입 풀스택 개발자 취업 (2025 하반기)",
     goal: "팀에 시너지를 주는 개발자",
-    vision: "따뜻한 기술로 사회 문제 해결",
+    vision: "팀원과의 협력과 소통 그에 따른 실력증진",
     
     💡 differentiator: "교사 경험 → 사용자 중심 개발"
 };
@@ -188,7 +188,7 @@ const myGoals = {
 ## 📞 **C O N T A C T** 📞
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-00D4FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://hana-dev-portfolio.netlify.app/)
-[![Resume](https://img.shields.io/badge/📄_RESUME-DOWNLOAD-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000)](https://github.com/HanaSeoo/HanaSeoo/raw/main/resume/서하나_이력서.pdf)
+[![Resume](https://img.shields.io/badge/📄_RESUME-DOWNLOAD-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000)](https://github.com/HanaSeoo/HanaSeoo/raw/main/서하나_이력서.pdf)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkskuqf123123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo)
