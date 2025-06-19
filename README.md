@@ -111,7 +111,7 @@ const hanaDeveloper = {
 ### 🌟 **모갔슈? - 탈모인 익명 공감 커뮤니티** *(팀 리더)*
 [![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejong12/mogatshoo) [![Notion](https://img.shields.io/badge/📋_Notion-상세보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Project-20ddb822a28e80ef92dfd65b470d78e9)
 
-**📅 2025.05-06** | **3명 팀 리더** | **🔧 Spring Boot + React + AI**
+**2025.05-06** | **3명 팀 리더** | **🔧 Spring Boot + React + AI**
 
 ```
  AI 탈모 진단 (Teachable Machine + OpenCV)
@@ -124,7 +124,7 @@ const hanaDeveloper = {
 ### **Urban Village 숙박 플랫폼** *(팀 리더)*
 [![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/urban-village) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vfzpYiFC3Rw)
 
-** 2025.03-05** | **4명 팀 리더** | **🔧 Spring MVC + Oracle**
+**2025.03-05** | **4명 팀 리더** | **🔧 Spring MVC + Oracle**
 
 ```
  사회적 가치: 지역 빈집 활용 + 노인 일자리 창출
@@ -147,7 +147,7 @@ const hanaDeveloper = {
 ###  **ABC ShoppingMall** *(첫 프로젝트, 팀 리더)*
 [![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/ABC-ShoppingMall) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/AosiUaQ-lYo)
 
-** 2025.02** | **3명 팀 리더** | **🔧 Java + JavaFX + Oracle**
+**2025.02** | **3명 팀 리더** | **🔧 Java + JavaFX + Oracle**
 
 ```
  JavaFX GUI 데스크톱 애플리케이션
