@@ -1,6 +1,6 @@
 <div align="center">
 
-# "git add hana && git commit -m 'Perfect match!' 🔥"
+# "git add hana && git commit -m 'Perfect match!'"
 <br>
 
 ```
@@ -41,17 +41,17 @@ const hanaDeveloper = {
      location: "경기도 남양주",
      email: "gkskuqf123123@gmail.com",
     
-     background: "🧸 유아교사 4년 9개월 → 💻 풀스택 개발자",
+     background: " 유아교사 4년 9개월 →  풀스택 개발자",
      education: "KG IT BANK 풀스택 과정 (2024.12-2025.06)",
     
-    💪 strengths: [
+    strengths: [
         "사용자 중심 사고 (4년 교육 경험)",
         "뛰어난 팀 협업 & 갈등 조율 능력", 
         "창의적 문제해결 & 빠른 적응력",
         "글로벌 마인드 (필리핀 2년 어학연수)"
     ],
     
-    💝 motto: "따뜻한 마음으로 코드를 작성합니다"
+    motto: "따뜻한 마음으로 코드를 작성합니다"
 };
 
 🌟 ================================= 🌟
@@ -114,23 +114,23 @@ const hanaDeveloper = {
 **📅 2025.05-06** | **3명 팀 리더** | **🔧 Spring Boot + React + AI**
 
 ```
-🤖 AI 탈모 진단 (Teachable Machine + OpenCV)
-🗳️ 익명 투표 시스템 (Windows 95 레트로 UI)
-🎁 게이미피케이션 (포인트 & 운세 시스템)
-🔐 OAuth2 다중 로그인 (카카오/네이버/구글)
-🗺️ 병원 찾기 (카카오 지도 API)
+ AI 탈모 진단 (Teachable Machine + OpenCV)
+ 익명 투표 시스템 (Windows 95 레트로 UI)
+ 게이미피케이션 (포인트 & 운세 시스템)
+ OAuth2 다중 로그인 (카카오/네이버/구글)
+ 병원 찾기 (카카오 지도 API)
 ```
 
 ### **Urban Village 숙박 플랫폼** *(팀 리더)*
 [![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/urban-village) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vfzpYiFC3Rw)
 
-**📅 2025.03-05** | **4명 팀 리더** | **🔧 Spring MVC + Oracle**
+** 2025.03-05** | **4명 팀 리더** | **🔧 Spring MVC + Oracle**
 
 ```
-🏘️ 사회적 가치: 지역 빈집 활용 + 노인 일자리 창출
-💳 완전한 예약 시스템: 아임포트 결제 + 날짜 중복 방지
-📊 관리자 대시보드: 매출 통계 + 예약 관리
-🗺️ 카카오 지도 연동: 숙소 위치 + 길찾기
+ 사회적 가치: 지역 빈집 활용 + 노인 일자리 창출
+ 완전한 예약 시스템: 아임포트 결제 + 날짜 중복 방지
+ 관리자 대시보드: 매출 통계 + 예약 관리
+ 카카오 지도 연동: 숙소 위치 + 길찾기
 ```
 
 ### **포트폴리오 웹사이트** *(개인)*
@@ -139,20 +139,20 @@ const hanaDeveloper = {
 **2025.06** | **🔧 React + Netlify**
 
 ```
-⚡ React SPA + 완전 반응형 디자인
-🎮 RPG 스타일 개발자 스탯 + 인터랙티브 UI
-🚀 성능 최적화 + SEO 최적화
+ React SPA + 완전 반응형 디자인
+ RPG 스타일 개발자 스탯 + 인터랙티브 UI
+ 성능 최적화 + SEO 최적화
 ```
 
-### 🛒 **ABC ShoppingMall** *(첫 프로젝트, 팀 리더)*
+###  **ABC ShoppingMall** *(첫 프로젝트, 팀 리더)*
 [![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/ABC-ShoppingMall) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/AosiUaQ-lYo)
 
-**📅 2025.02** | **3명 팀 리더** | **🔧 Java + JavaFX + Oracle**
+** 2025.02** | **3명 팀 리더** | **🔧 Java + JavaFX + Oracle**
 
 ```
-🖥️ JavaFX GUI 데스크톱 애플리케이션
-🛒 장바구니 + 쿠폰 + 결제 + 배송 시스템
-🔍 Q&A 고객지원 + Oracle DB 연동
+ JavaFX GUI 데스크톱 애플리케이션
+ 장바구니 + 쿠폰 + 결제 + 배송 시스템
+ Oracle DB 연동
 ```
 
 ---
@@ -173,7 +173,7 @@ const myGoals = {
     goal: "팀에 시너지를 주는 개발자",
     vision: "팀원과의 협력과 소통 그에 따른 실력증진",
     
-    💡 differentiator: "교사 경험 → 사용자 중심 개발"
+    differentiator: "교사 경험 → 사용자 중심 개발"
 };
 
 "아이들과의 소통에서 배운 사용자 중심 사고를
@@ -205,7 +205,7 @@ const myGoals = {
 
 <div align="center">
 
-## 💝 **M Y   P R O M I S E** 💝
+## **M Y   P R O M I S E**
 
 ### **"교사로서 쌓은 소통 능력과 사용자 중심 사고를 바탕으로  
 따뜻하고 유용한 서비스를 만드는 개발자가 되겠습니다"**
