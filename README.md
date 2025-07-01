@@ -45,10 +45,11 @@ const hanaDeveloper = {
      education: "KG IT BANK 풀스택 과정 (2024.12-2025.06)",
     
     strengths: [
+        "한 기업에서 4년 이상 연속 근무 ",
         "사용자 중심 사고 (4년 교육 경험)",
         "뛰어난 팀 협업 & 갈등 조율 능력", 
         "창의적 문제해결 & 빠른 적응력",
-        "글로벌 마인드 (필리핀 2년 어학연수)"
+        "글로벌 마인드 (필리핀 어학연수)"
     ],
     
     motto: "따뜻한 마음으로 코드를 작성합니다"
@@ -114,7 +115,7 @@ const hanaDeveloper = {
 
 </div>
 
-### 🌟 **모갔슈? - 탈모인 익명 공감 커뮤니티** *(팀 리더)*
+### **모갔슈? - 탈모인 익명 공감 커뮤니티** *(팀 리더)*
 [![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejong12/mogatshoo) [![Notion](https://img.shields.io/badge/📋_Notion-상세보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Project-20ddb822a28e80ef92dfd65b470d78e9)
 
 **2025.05-06** | **3명 팀 리더** | **🔧 Spring Boot + React + AI**
@@ -213,8 +214,7 @@ const myGoals = {
 
 ## **M Y   P R O M I S E**
 
-### **"교사로서 쌓은 소통 능력과 사용자 중심 사고를 바탕으로  
-따뜻하고 유용한 서비스를 만드는 개발자가 되겠습니다"**
+### ** "교사로서 쌓은 소통 능력과 사용자 중심 사고를 바탕으로 따뜻하고 유용한 서비스를 만드는 개발자가 되겠습니다" **
 
 ** 4년 교육 경험 × 6개월 개발 교육 = 새로운 가능성 **
 
