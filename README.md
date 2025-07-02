@@ -116,7 +116,8 @@ const hanaDeveloper = {
 </div>
 
 ### **모갔슈? - 탈모인 익명 공감 커뮤니티** *(팀 리더)*
-[![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejong12/mogatshoo) [![Notion](https://img.shields.io/badge/📋_Notion-상세보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Project-20ddb822a28e80ef92dfd65b470d78e9)
+[![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taejong12/mogatshoo) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/JcuWNKhWlmo?si=UI7Bl5buwGzXhvSx) [![Notion](https://img.shields.io/badge/📋_Notion-상세보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Project-20ddb822a28e80ef92dfd65b470d78e9) [![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mogatshoo.onrender.com/)
+
 
 **2025.05-06** | **3명 팀 리더** | **🔧 Spring Boot + React + AI**
 
@@ -129,7 +130,8 @@ const hanaDeveloper = {
 ```
 
 ### **Urban Village 숙박 플랫폼** *(팀 리더)*
-[![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/urban-village) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vfzpYiFC3Rw)
+[![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/urban-village) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vfzpYiFC3Rw) [![Notion](https://img.shields.io/badge/📋_Notion-상세보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Urban_Village-1e3db822a28e81138313efd2bfa3d006?source=copy_link)
+
 
 **2025.03-05** | **4명 팀 리더** | **🔧 Spring MVC + Oracle**
 
@@ -152,7 +154,7 @@ const hanaDeveloper = {
 ```
 
 ###  **ABC ShoppingMall** *(첫 프로젝트, 팀 리더)*
-[![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/ABC-ShoppingMall) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/AosiUaQ-lYo)
+[![Repository](https://img.shields.io/badge/📁_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanaSeoo/ABC-ShoppingMall) [![Demo](https://img.shields.io/badge/🎬_YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/AosiUaQ-lYo) [![Notion](https://img.shields.io/badge/📋_Notion-상세보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/ABC-ShoppingMall-21edb822a28e802db084f4beb2a63440?source=copy_link)
 
 **2025.02** | **3명 팀 리더** | **🔧 Java + JavaFX + Oracle**
 
