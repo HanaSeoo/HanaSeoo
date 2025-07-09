@@ -171,7 +171,7 @@ const hanaDeveloper = {
 ## **M Y   V I S I O N**
 
 </div>
-<div align="center">
+
 ```
 javascript
   ================================= 
@@ -192,7 +192,7 @@ const myGoals = {
 
   ================================= 
 ```
-</div>
+
 ---
 
 <div align="center">
