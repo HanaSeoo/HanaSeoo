@@ -46,7 +46,7 @@ const hanaDeveloper = {
     
     strengths: [
         "한 기업에서 4년 이상 연속 근무 ",
-        "사용자 중심 사고 (4년 교육 경험)",
+        "진정한 풀스택 가능자 (백, 프론트 모두경험)",
         "뛰어난 팀 협업 & 갈등 조율 능력", 
         "창의적 문제해결 & 빠른 적응력",
         "글로벌 마인드 (필리핀 어학연수)"
@@ -171,14 +171,15 @@ const hanaDeveloper = {
 ## **M Y   V I S I O N**
 
 </div>
-
-```javascript
+<div align="center">
+```
+javascript
   ================================= 
               CAREER GOALS
   ================================= 
 
 const myGoals = {
-    now: "신입 풀스택 개발자 취업 (2025 하반기)",
+    now: "신입 풀스택 개발자 취업",
     goal: "팀에 시너지를 주는 개발자",
     vision: "팀원과의 협력과 소통 그에 따른 실력증진",
     
@@ -191,7 +192,7 @@ const myGoals = {
 
   ================================= 
 ```
-
+</div>
 ---
 
 <div align="center">
@@ -216,9 +217,9 @@ const myGoals = {
 
 ## **M Y   P R O M I S E**
 
-### ** "교사로서 쌓은 소통 능력과 사용자 중심 사고를 바탕으로 따뜻하고 유용한 서비스를 만드는 개발자가 되겠습니다" **
+### **"교사로서 쌓은 소통 능력과 사용자 중심 사고를 바탕으로 따뜻하고 유용한 서비스를 만드는 개발자가 되겠습니다"**
 
-** 4년 교육 경험 × 6개월 개발 교육 = 새로운 가능성 **
+**4년 교육 경험 × 6개월 개발 교육 = 새로운 가능성**
 
 ![Profile views](https://komarev.com/ghpvc/?username=HanaSeoo&color=00D4FF&style=for-the-badge)
 
@@ -230,8 +231,8 @@ const myGoals = {
 
 ```
 🌟 ================================= 🌟
-       THANK YOU FOR VISITING!
-            Ready to Code!
+    THANK YOU FOR VISITING!
+        Ready to Code!
 🌟 ================================= 🌟
 ```
 
