@@ -111,7 +111,7 @@ const hanaDeveloper = {
 
 <div align="center">
 
-## **F E A T U R E D   P R O J E C T S**
+## **P R O J E C T S**
 
 </div>
 
